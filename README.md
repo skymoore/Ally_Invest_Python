@@ -17,6 +17,9 @@ requires: requests, requests_oauthlib
 2. Edit my_auth.py with your credentials
 
 `# create an oauth object`
+
 `auth = Oauth1(my_key, my_secret, oauth_token, oauth_secret)`
+
 `# get your data`
+
 `acct = get_acct(auth)`
