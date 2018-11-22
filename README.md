@@ -1,5 +1,8 @@
 # Ally Invest API Python Interface
 
+# IMPORTANT:
+## By using this software you release me from all responsibility resulting from it's use. I am not a financial advisor and am not offering any financial advice. I am not suggesting or implying that you buy, sell, or hold any security or investment by making this software available.
+
 requires: requests, requests_oauthlib
 
 `pip install requests, requests_oauthlib`
